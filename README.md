@@ -6,7 +6,7 @@
 - ⚡ Fun fact: i like train 
 
 I know :
-! [image](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.m.wikipedia.org%2Fwiki%2FFichier%3APython-logo-notext.svg&psig=AOvVaw0UoKR2G35GrC-qGqvIAIFC&ust=1716363859588000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiGq-KfnoYDFQAAAAAdAAAAABAE)
+! [image](![image](https://github.com/NDejugnac/NDejugnac/assets/159040295/4aca582b-995a-43f6-86fb-733724df009a))
 
 <!---
 NDejugnac/NDejugnac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
