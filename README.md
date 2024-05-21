@@ -1,5 +1,5 @@
 
-- 👀 I’m interested in development
+- 👀 I’m interested in developing 
 - 🌱 I’m currently learning Java/JavaFx
 - 📫 How to reach me nohadejugnac@gmail.com
 - 😄 Pronouns: me
