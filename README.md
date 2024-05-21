@@ -6,7 +6,7 @@
 - ⚡ Fun fact: i like train 
 
 I know :
-! [image](![image](https://github.com/NDejugnac/NDejugnac/assets/159040295/4aca582b-995a-43f6-86fb-733724df009a))
+![image](https://github.com/NDejugnac/NDejugnac/assets/159040295/4aca582b-995a-43f6-86fb-733724df009a))
 
 <!---
 NDejugnac/NDejugnac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
