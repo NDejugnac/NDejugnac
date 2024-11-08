@@ -1,6 +1,6 @@
 
 - 👀 I’m interested in developing 
-- 🌱 I’m currently learning Java/JavaFx
+- 🌱 I’m currently learning
 - 📫 How to reach me nohadejugnac@gmail.com
 - 😄 Pronouns: me
 - ⚡ Fun fact: i like train 
